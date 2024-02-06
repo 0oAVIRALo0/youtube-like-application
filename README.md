@@ -1,4 +1,4 @@
-# **YouTube Application with RabbitMQ**
+**YouTube Application with RabbitMQ**
 
 # Overview:
 This project implements a simplified version of a YouTube application using RabbitMQ, consisting of three components:
