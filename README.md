@@ -34,3 +34,4 @@ User
 
 YouTubeServer
 - Start the YouTubeServer to handle user subscriptions, video uploads, and notifications.
+- The server sends real-time notifications to the users about which youtuber has uploaded which video.
